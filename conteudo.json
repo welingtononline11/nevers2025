@@ -1,0 +1,44 @@
+{
+  "categorias": ["Ação", "Comédia", "Drama"],
+  "filmes": [
+    {
+      "id": "f1",
+      "titulo": "Velozes e Furiosos",
+      "descricao": "Corridas e ação em alta velocidade.",
+      "capa": "https://exemplo.com/capas/velozes.jpg",
+      "url": "https://meuserver.com/filmes/velozes.m3u8",
+      "categoria": "Ação"
+    },
+    {
+      "id": "f2",
+      "titulo": "Todo Mundo em Pânico",
+      "descricao": "Paródia de filmes de terror.",
+      "capa": "https://exemplo.com/capas/panico.jpg",
+      "url": "https://meuserver.com/filmes/panico.mp4",
+      "categoria": "Comédia"
+    }
+  ],
+  "series": [
+    {
+      "id": "s1",
+      "titulo": "Série Exemplo",
+      "descricao": "Uma série emocionante.",
+      "capa": "https://exemplo.com/capas/serieexemplo.jpg",
+      "categoria": "Drama",
+      "episodios": [
+        {
+          "temporada": 1,
+          "numero": 1,
+          "titulo": "Piloto",
+          "url": "https://meuserver.com/series/serieexemplo/s1e1.m3u8"
+        },
+        {
+          "temporada": 1,
+          "numero": 2,
+          "titulo": "O Retorno",
+          "url": "https://meuserver.com/series/serieexemplo/s1e2.mp4"
+        }
+      ]
+    }
+  ]
+}
