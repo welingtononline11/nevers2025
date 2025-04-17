@@ -11,9 +11,9 @@
     },
     {
       "id": "f2",
-      "titulo": "Todo Mundo em Pânico",
+      "titulo": "Mike e Molly",
       "descricao": "Paródia de filmes de terror.",
-      "capa": "https://exemplo.com/capas/panico.jpg",
+      "capa": "https://i.imgur.com/NE34S2P.jpeg",
       "url": "https://meuserver.com/filmes/panico.mp4",
       "categoria": "Comédia"
     }
@@ -21,10 +21,10 @@
   "series": [
     {
       "id": "s1",
-      "titulo": "Série Exemplo",
+      "titulo": "Mike e Molly",
       "descricao": "Uma série emocionante.",
-      "capa": "https://exemplo.com/capas/serieexemplo.jpg",
-      "categoria": "Drama",
+      "capa": "https://i.imgur.com/NE34S2P.jpeg",
+      "categoria": "Comédia",
       "episodios": [
         {
           "temporada": 1,
