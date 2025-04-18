@@ -54,13 +54,13 @@
           "temporada": 1,
           "numero": 1,
           "titulo": "Piloto",
-          "url": "https://meuserver.com/series/serieexemplo/s1e1.m3u8"
+          "url": "https://e9a2b39qp5u2.cdn-centaurus.com/hls2/01/02900/w7griphni8ei_n/master.m3u8?t=Y9qE76q9qjnqsVxBC0-_N9bJ-yJO98HHOEwh-rEies4&s=1744941038&e=129600&f=14502552&srv=jrjr7jgjnmnz&i=0.4&sp=500&p1=jrjr7jgjnmnz&p2=jrjr7jgjnmnz&asn=52689"
         },
         {
           "temporada": 1,
           "numero": 2,
-          "titulo": "O Retorno",
-          "url": "https://meuserver.com/series/serieexemplo/s1e2.mp4"
+          "titulo": "Primeiro Encontro",
+          "url": "https://e9a2b39qp5u2.cdn-centaurus.com/hls2/01/02900/w7griphni8ei_n/master.m3u8?t=Y9qE76q9qjnqsVxBC0-_N9bJ-yJO98HHOEwh-rEies4&s=1744941038&e=129600&f=14502552&srv=jrjr7jgjnmnz&i=0.4&sp=500&p1=jrjr7jgjnmnz&p2=jrjr7jgjnmnz&asn=52689"
         }
       ]
     }
